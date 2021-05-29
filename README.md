@@ -1,46 +1,53 @@
-## Project Idea: ##    
+# Oogway
 
-28th May, 2021
+-----------------------------------------------------------------------------------------------------------
+### A discord bot cum friend who'll always offer a virtual shoulder for you to lean on. :innocent:
+![Image of Master Oogway](https://static.wikia.nocookie.net/kungfupanda/images/2/2e/Oogway-white.png/revision/latest?cb=20160326153345) 
+
+
+About Oogway:
 --
+Oogway is your go-to chat bot whenever you are feeling down. He will try to cheer you up with your favourite things and let you rant about your bad day without complaining. He will always have time for you and try to be your friend whenever you need him. \
+Oogway like Master Oogway is able to see the bigger picture in life with his virtual eyes. Although it might not seem okay right now, Oogway knows that there is a lot of happiness and success in store for you in the future.:wink:
 
-Objective:
+
+
+How to SetUp?
 --
-- Rant levels --- need for calming down---level demarcation; --- database of the users
-- Aggressive words, encouraging words--- Youtube, images—access these from google
-- Directory ---db, MySQL—essential for our programming end to fetch this when the user calls for us
-- import discord
-##  Login part:
-- Survey--- Database of the users
-Table 1:
-1)	Age Group
-2)	Genre of Music, Artists -- multicorrect
-3)	Food suggestions -- multicorrect
-4)	Animals -- multicorrect
+- Download the Discord App as our Oogway is currently residing on this platform.
+- Register yourself on Discord if you are a new user or Signin. 
+- Create a new server for yourself and Oogway.
+- It is advisable to be alone with Oogway to extract the most from it.
+- Invite Oogway to your server by clicking on {https://discord.com/api/oauth2/authorize?client_id=848146629471109150&permissions=2148002880&scope=bot}.
+- Start talking to Oogway! 
+- Oogway will guide you from now on!
+- To end the session use the command ```!end```
 
-Table 2:
-Information about Rant Levels of the User for the past week
-Cap on the history — last 14 days : those days not attended = 0 (default)
-
-- Import time
-- Matplotlib plot
-
-Alternative—
-## Database 2: Agressive
-DeepLearning to find emotions and rant levels
---
-- Encouraging words 
---------------------------------------------------------------
-# Updates to the Existing Idea. :slightly_smiling_face:
----------------------------------------------------------------
 
 
 Technologies Used:
 --
-- Wit.ai : NLP Training
-- LMFT Deep Learning Model : Sentiment Analysis
-- Django Framework / Discord
-- Python
-- MySQL
+
+- Wit.ai : Sentiment Analysis with NLP Training
+- Discord API
+- Python3
+- Sqlite3
+- Quickchart
+
+Dependencies:
+--
+We have trained a dataset of conversations and sentiments on Wit.ai and we are using Discord as the platform to host our bot. \
+Our bot is maintaining records of users to assess their mental health status in real-time and it is providing comfort to the users as the bot mimics a companion. \
+We have employed web-parsing for the audio-visual responses for the user which will be sent by the bot at different intervals depending on the mood of the user.
+
+Our bot was made using the following dependencies. 
+  - ```pip install pywit```
+  - ```pip install discord.py```
+  - ```pip install quickchart.io```
+  - ```pip install beautifulsoup4```
+  - ```pip install lxml```
+  - ```pip install ```
+
 
 
 *Interesting References:*
@@ -56,9 +63,16 @@ __Required References :__
 - https://github.com/amilavm/Chatbot_Keras/blob/main/train.ipynb
 - https://github.com/wit-ai/pywit
 
+Youtube Demo Link:
+--
+
+
 
 __Future Scope of Development:__
 -----------------------------------
-- ⭐: 1. Morphing videos and playing them.
-- ⭐: 2. Voice to text
-- ⭐: 3.  Self - learning Responses by bot
+> *There is always something more to learn even for a master.* \
+                           *Master Oogway from Kungfu Panda*
+
+1. Morphing videos and playing them.
+2. Text to Voice
+3. Self - learning Responses by Bot
