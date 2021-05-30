@@ -11,6 +11,22 @@ Oogway is your go-to chat bot whenever you are feeling down. He will try to chee
 Oogway like Master Oogway is able to see the bigger picture in life with his virtual eyes. Although it might not seem okay right now, Oogway knows that there is a lot of happiness and success in store for you in the future.:wink:
 
 
+Inspiration:
+--
+One day, we were watching Kungfu Panda3 and we suddenly realized that everyone needs a Master Oogway in their lives. \
+That's when the idea of Oogway, our bot came to our mind.\
+There are sometimes things that we hesitate in sharing with our friends or family because we feel they are too mundane or silly to talk about like going through a bad day or not liking school and telling them to our friends might inconvenience them or waste their time. \
+Oogway is very patient and soothes the person talking to him.\
+We tried making a bot based on Master Oogway to help people cheer up in the times of this global pandemic.
+
+Problem it Solves:
+--
+There is a rise in mental stress among people belonging from all age groups especially in these times when the world is going through a pandemic. We are losing our loved ones in the face of this deadly virus and our hope and faith in the future has been shaken to the core. \
+
+What mental health needs is more sunlight, more candor, and more unashamed conversation. \
+It is very easy to feel depressed and lonely in these trying times and Oogway serves as a buddy whom you can confide in while staying anonymous. It will also keep a tab on your complicated feelings and inform you about the same. \
+
+Our bot, Oogway will not replace your loved one but it will try to be a friend, a companion and an emotional support to you. It will not try to give you solutions but will always listen to you and try to understand your problems just like a good friend does.
 
 How to SetUp?
 --
@@ -38,8 +54,9 @@ Dependencies:
 --
 We have trained a dataset of conversations and sentiments on Wit.ai and we are using Discord as the platform to host our bot. \
 Our bot is maintaining records of users to assess their mental health status in real-time and it is providing comfort to the users as the bot mimics a companion. \
-We have employed web-parsing for the audio-visual responses for the user which will be sent by the bot at different intervals depending on the mood of the user.
-
+Oogway analyzes the user's sentiments based on the conversation with the user and is able to identify their emotions and stress-level. According to Oogway's analysis, it replies with suitable responses and provides additional resources like comforting pet videos, song recommnedations, comfort food recipes and much more. \
+We have employed web-parsing for the audio-visual responses for the user which will be sent by the bot at different intervals depending on the mood of the user. \
+At the end of a conversation with Oogway, a graph on the mood levels of the user is displayed to keep track of their stress level.\
 Our bot was made using the following dependencies. 
   - ```pip install pywit```
   - ```pip install discord.py```
@@ -76,3 +93,4 @@ __Future Scope of Development:__
 1. Morphing videos and playing them.
 2. Text to Voice
 3. Self - learning Responses by Bot
+4. Tagger for identifying extreme responses from the user and inform the required authorities.
