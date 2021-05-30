@@ -55,7 +55,7 @@ Dependencies:
 --
 We have trained a dataset of conversations and sentiments on Wit.ai and we are using Discord as the platform to host our bot. \
 Our bot is maintaining records of users to assess their mental health status in real-time and it is providing comfort to the users as the bot mimics a companion. \
-Oogway analyzes the user's sentiments based on the conversation with the user and is able to identify their emotions and stress-level. According to Oogway's analysis, it replies with suitable responses and provides additional resources like comforting pet videos, song recommnedations, comfort food recipes and much more. \
+Oogway analyzes the user's sentiments based on the conversation with the user and is able to identify their emotions and stress-level. According to Oogway's analysis, it replies with suitable responses and provides additional resources like comforting pet videos, song recommnedation, comfort food recipes and much more. \
 We have employed web-parsing for the audio-visual responses for the user which will be sent by the bot at different intervals depending on the mood of the user. \
 At the end of a conversation with Oogway, a graph on the mood levels of the user is displayed to keep track of their stress level.\
 Our bot was made using the following dependencies. 
