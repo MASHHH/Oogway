@@ -18,7 +18,7 @@ How to SetUp?
 - Register yourself on Discord if you are a new user or Signin. 
 - Create a new server for yourself and Oogway.
 - It is advisable to be alone with Oogway to extract the most from it.
-- Invite Oogway to your server by clicking on {https://discord.com/api/oauth2/authorize?client_id=848146629471109150&permissions=2148002880&scope=bot}.
+- Invite Oogway to your server by clicking on https://discord.com/api/oauth2/authorize?client_id=848146629471109150&permissions=2148002880&scope=bot
 - Start talking to Oogway! 
 - Oogway will guide you from now on!
 - To end the session use the command ```!end```
@@ -46,7 +46,7 @@ Our bot was made using the following dependencies.
   - ```pip install quickchart.io```
   - ```pip install beautifulsoup4```
   - ```pip install lxml```
-  - ```pip install ```
+  - ```pip install urllib3```
 
 
 
