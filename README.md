@@ -21,10 +21,10 @@ We tried making a bot based on Master Oogway to help people cheer up in the time
 
 Problem it Solves:
 --
-There is a rise in mental stress among people belonging from all age groups especially in these times when the world is going through a pandemic. We are losing our loved ones in the face of this deadly virus and our hope and faith in the future has been shaken to the core. \
+There is a rise in mental stress among people belonging from all age groups especially in these times when the world is going through a pandemic. We are losing our loved ones in the face of this deadly virus and our hope and faith in the future has been shaken to the core.
 
-What mental health needs is more sunlight, more candor, and more unashamed conversation. \
-It is very easy to feel depressed and lonely in these trying times and Oogway serves as a buddy whom you can confide in while staying anonymous. It will also keep a tab on your complicated feelings and inform you about the same. \
+What mental health needs is more sunlight, more candor, and more unashamed conversation.\
+It is very easy to feel depressed and lonely in these trying times and Oogway serves as a buddy whom you can confide in while staying anonymous. It will also keep a tab on your complicated feelings and inform you about the same.
 
 Our bot, Oogway will not replace your loved one but it will try to be a friend, a companion and an emotional support to you. It will not try to give you solutions but will always listen to you and try to understand your problems just like a good friend does.
 
@@ -34,7 +34,8 @@ How to SetUp?
 - Register yourself on Discord if you are a new user or Signin. 
 - Create a new server for yourself and Oogway.
 - It is advisable to be alone with Oogway to extract the most from it.
-- Invite Oogway to your server by clicking on https://discord.com/api/oauth2/authorize?client_id=848146629471109150&permissions=2148002880&scope=bot
+- Invite Oogway to your server by clicking on:
+  - https://discord.com/api/oauth2/authorize?client_id=848146629471109150&permissions=2148002880&scope=bot
 - Start talking to Oogway! 
 - Oogway will guide you from now on!
 - To end the session use the command ```!end```
