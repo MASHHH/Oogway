@@ -37,7 +37,7 @@ How to SetUp?
 - Invite Oogway to your server by clicking on:
   - https://discord.com/api/oauth2/authorize?client_id=848146629471109150&permissions=2148002880&scope=bot
 - Start talking to Oogway! 
-- Oogway will guide you from now on!
+- *Master Oogway is on the Way!*
 - To end the session use the command ```!end```
 
 
